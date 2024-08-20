@@ -1,0 +1,21 @@
+.Impar {
+    background-color: #ec567b;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#Segundo {
+    color: #00f;
+    font-size: 36px;
+}
+
+.Tercero{
+    font-size: 36px;
+}
+
+#Cuarto{
+    background-color: rgb(167, 248, 156);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/*a light green background, a font size of 24px, and bold
